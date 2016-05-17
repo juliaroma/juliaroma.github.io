@@ -1,2 +1,1 @@
-# juliaroma.github.io
-JF Project
+# juliaroma
